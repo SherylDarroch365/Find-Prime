@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: #ccc;
+}
+
+h1, #root {
+  color: blue;
+}
+
+h1 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+h2 {
+  margin: 0.5em;
+}
+
+h3 {
+  margin-bottom: 0;
+}
+
+#root {
+  font-size: 2em;
+  margin: 0;
+}
